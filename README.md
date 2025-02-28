@@ -5,9 +5,9 @@
     Hello, I'm Zyonh 👋
 </h1>
 
-<img align="right" width="600" height="170" src="https://github.com/N0yhz/N0yhz/blob/main/quote.svg"/>
+<img align="right" width="450" height="170" src="https://github.com/N0yhz/N0yhz/blob/main/quote.svg"/>
 
-<h3 align="left">About Me</h3>
+<h3 align="left">🌌 About Me</h3>
 
 🔭 I’m currently working on developing my skills and taking hand into AI/ML
 <br/>
