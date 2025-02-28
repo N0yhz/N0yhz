@@ -1,11 +1,11 @@
+<img src="https://github.com/N0yhz/N0yhz/blob/main/samurai-pixel-art.jpg" style="width:auto; height:auto"/>
+
 
 <h1 align="center">
-    <img
-        src="https://readme-typing-svg.herokuapp.com/demo/?weight=600&size=30&duration=4500&pause=500&color=FFFFFF&center=true&lines=Hello+%F0%9F%91%8B;I'm+Zyonh"
-    />
+    Hello, I'm Zyonh 👋
 </h1>
 
-<img align="right" width="300" src="https://github.com/N0yhz/N0yhz/blob/main/quote_1.svg"/>
+<img align="right" width="600" height="170" src="https://github.com/N0yhz/N0yhz/blob/main/quote.svg"/>
 
 <h3 align="left">About Me</h3>
 
